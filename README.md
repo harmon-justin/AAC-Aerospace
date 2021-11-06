@@ -29,7 +29,7 @@
       </table>
     </header>
     <!--Description of Site.-->
-    <h2>Summoners War:About </h2>
+    <h2>AAC Technology </h2>
       <p><br>
       <br>
       <br>
