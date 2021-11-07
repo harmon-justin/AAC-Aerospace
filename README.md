@@ -11,7 +11,7 @@
   body {background-color:#2203FA;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
   h1{text-align:center;font-family:Impact, sans-serif;color:#000000;background-color:#7106f4;}
   h2{text-align:center;font-family:Impact, sans-serif;color:#000000;background-color:#7106f4;}
-  p {text-align:left;font-family:Cursive;font-size:16px;font-style:normal;font-weight:bold;color:#fb0909;background-color:#26f2ef;}
+  p {text-align:left;font-family:Cursive;font-size:16px;font-style:normal;font-weight:bold;color:#4F199E;background-color:#26f2ef;}
   td {width: 200px; height: 5px; background-color: #dde660;color:#000000; font-family: Verdana; text-align: center;}
     </style>
   </head>
