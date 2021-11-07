@@ -30,18 +30,8 @@
     </header>
     <!--Description of Site.-->
     <h2>AAC Technology </h2>
-      <p><br>
-      <br>
-      <br>
-      <br>
-      <br>
-      </p>
-      <p><br>
-      <br>
-      </p>
-      <p><br> </p>
-      <p> <br> </p>
-      <p><br> </p>
+      <p>Welcome to AAC Technology.  We are adding details daily and welcome any feedback.  Feel free to reach out with any questions.<br>
+      
       
   </body>
   </html>
