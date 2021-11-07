@@ -7,7 +7,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Cutting Edge AeroSpace Technology.">
   <style>
-  body {background-color:#2203FA;background-repeat:no-repeat;background-position:top left;background-attachment:fixed; border-style: solid}
+  body {background-color:#2203FA;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
+  .bordered {
+    width:400px
+    height:100px
+    padding:40px
+    border:20px solid yellowgreen;
+    }
+  <div class="bordered">
   h1{text-align:left;font-family:Impact, sans-serif;color:#000000;background-color:#7106f4;}
   p {text-align:left;font-family:Cursive;font-size:16px;font-style:normal;font-weight:bold;color:#4F199E;background-color:#26f2ef;}
   td {width: 200px; height: 5px; background-color: #dde660;color:#000000; font-family: Verdana; text-align: center;}
@@ -29,6 +36,7 @@
     <h1>AAC Technology </h1>
       <p>Welcome to AAC Technology.  We are adding details daily and welcome any feedback.  Feel free to reach out with any questions.<br>
     </p>
+    </div>
       
       
   </body>
